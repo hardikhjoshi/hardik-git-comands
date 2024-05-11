@@ -1,0 +1,13 @@
+git init
+git status
+git add <filename>
+git rm --cashed <filename>
+git commit -m "adding commands"
+git restore commands.txt
+git log
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "username"
+git config --global user.email "Email_ID"
+git checkout -b <new-branch-name>
+git branch
