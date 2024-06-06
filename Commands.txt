@@ -11,3 +11,5 @@ git config --global user.name "username"
 git config --global user.email "Email_ID"
 git checkout -b <new-branch-name>
 git branch
+git clone
+git remote -v
