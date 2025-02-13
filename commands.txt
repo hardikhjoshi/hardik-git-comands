@@ -13,3 +13,6 @@ git checkout -b <new-branch-name>
 git branch
 git clone
 git remote -v
+git pull
+git fetch
+git push
